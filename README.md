@@ -165,7 +165,13 @@ REQUIRED INSTRUCTIONS:
 
 [You can find the engineering project outline here.](https://github.com/makersacademy/course/tree/master/engineering_projects/rails)
 
-2. The card wall is here: <please update>
+2. The card wall is here:  https://trello.com/b/JUaLZHFH/insane
+
+3. Link to deployed app: https://acebook-insane.herokuapp.com/
+
+## Learning Documents 
+
+Please see Learning Documents column on Trello board: https://trello.com/b/JUaLZHFH/insane
 
 ## How to contribute to this project
 
@@ -181,5 +187,6 @@ First, clone this repository. Then:
 > bin/rails db:migrate
 
 > bundle exec rspec # Run the tests to ensure it works
-> bin/rails server # Start the server at localhost:3000
+> bin/rails server
 ```
+Start the server at localhost:3000
